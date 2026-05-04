@@ -1,0 +1,3 @@
+Organism Scientific Name	Organism Common Name	Organism Qualifier	Taxonomy id	Assembly Name	Assembly Accession	Source	Annotation	Level	Contig N50	Size	Submission Date	Gene Count	BioProject	BioSample
+Thermotoga petrophila RKU-1		strain: RKU-1	390874	ASM1678v1	GCA_000016785.1	GenBank	Annotation submitted by US DOE Joint Genome Institute	Complete Genome	1823511	1823511	2007-05-18	1864	PRJNA17089	SAMN02598377
+Thermotoga petrophila RKU-1		strain: RKU-1	390874	ASM1678v1	GCF_000016785.1	RefSeq	GCF_000016785.1-RS_2025_03_27	Complete Genome	1823511	1823511	2007-05-18	1871	PRJNA17089	SAMN02598377
